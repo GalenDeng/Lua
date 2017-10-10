@@ -29,3 +29,5 @@ Web 应用脚本
 ```
 Lua 是一个区分大小写的编程语言
 ```
+6.
+ ![第三方模块查找](http://blog.csdn.net/whynottrythis/article/details/44996229?reload)
